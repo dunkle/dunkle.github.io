@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications | 邓开的主页</title>
-    <link>https://dunkle.github.io/publication/</link>
-      <atom:link href="https://dunkle.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
-    <description>Publications</description>
+    <title>Source Themes | 邓开的主页</title>
+    <link>https://dunkle.github.io/tag/source-themes/</link>
+      <atom:link href="https://dunkle.github.io/tag/source-themes/index.xml" rel="self" type="application/rss+xml" />
+    <description>Source Themes</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><lastBuildDate>Thu, 01 Jul 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://dunkle.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>Publications</title>
-      <link>https://dunkle.github.io/publication/</link>
+      <title>Source Themes</title>
+      <link>https://dunkle.github.io/tag/source-themes/</link>
     </image>
     
     <item>
@@ -70,14 +70,6 @@
 &lt;p&gt;Supplementary notes can be added here, including 
 &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>一种自行车停放装置</title>
-      <link>https://dunkle.github.io/publication/patent-2018/</link>
-      <pubDate>Sat, 25 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>https://dunkle.github.io/publication/patent-2018/</guid>
-      <description></description>
     </item>
     
   </channel>
